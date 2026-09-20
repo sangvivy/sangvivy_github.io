@@ -1,8 +1,15 @@
 # Welcome to My Portfolio
 
-Hi there! I am a Data Science and Analytics student showcasing my projects below.
+# Hi, I'm Vivian Jerono Kipsang 👋
 
-## Featured Projects
+I am an undergraduate student pursuing a degree in Data Science and Analytics at United States International University – Africa (USIU-Africa). Passionate about machine learning, predictive modeling, and data-driven storytelling.
 
-* [Avocado Price Prediction & Forecasting](projects/avocado-forecasting/)
-* [GPA Forecast Dashboard](projects/gpa-forecast-dashboard/)
+---
+### Let's Connect
+* [GitHub Profile](https://github.com/sangvivy)
+* [LinkedIn Profile](https://linkedin.com)
+
+## 🚀 Featured Projects
+
+* [🥑 Time Series Avocado Price Forecasting](projects/avocado-forecasting/)
+* [🎓 GPA Forecast Dashboard](projects/gpa-forecast-dashboard/)
