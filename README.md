@@ -22,9 +22,9 @@ I am an undergraduate student pursuing a degree in Data Science and Analytics at
 
 ## 🚀 Featured Projects
 
-* [🥑 Time Series Avocado Price Forecasting](projects/avocado-forecasting/)
-* [🎓 GPA Forecast Dashboard](projects/gpa-forecast-dashboard/)
-* [📊 AdventureWorks Data Analysis](projects/adventureworks/)
+* **[🥑 Time Series Avocado Price Forecasting](projects/avocado-forecasting/)** — Built an R-based predictive model and Shiny dashboard to forecast avocado retail prices using ARIMA and Random Forest.
+* **[🎓 GPA Forecast Dashboard](projects/gpa-forecast-dashboard/)** — Developed an interactive Streamlit web application using Python to predict and visualize student GPA trends with time-series models.
+* **[📊 AdventureWorks Data Analysis](projects/adventureworks/)** — Performed business intelligence analysis on the AdventureWorks dataset to uncover regional sales performance and customer insights.)
 
 
 ---
