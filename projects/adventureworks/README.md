@@ -28,7 +28,8 @@ The analysis was performed on a multi-table relational dataset consisting of:
 
 The project utilizes a Star Schema architecture to optimize query performance. A central Fact table (Sales) is connected to five Dimension tables (Product, Customer, Territory, Calendar, and Returns) via one-to-many relationships. This design minimizes data redundancy and enables efficient cross-filtering across the entire dashboard."
 
-![alt text](image-1.png)
+<img width="1223" height="798" alt="image" src="https://github.com/user-attachments/assets/43954038-9694-48b1-9111-1e7a9e863b7f" />
+
 
 ## Tools Used
 
