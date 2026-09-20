@@ -474,7 +474,7 @@ Rscript -e "shiny::runApp('dashboard/app.R')"
 ```
 
 ## Dashboard Preview
-(![alt text](Screenshots/Dashboard.png))
+<img width="1454" height="696" alt="image" src="https://github.com/user-attachments/assets/1930b4a5-59a2-4d3a-86f3-82019a1cc529" />
 
 # 🚀 Installation & Setup
 
