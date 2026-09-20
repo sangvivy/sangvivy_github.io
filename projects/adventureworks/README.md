@@ -64,7 +64,8 @@ The project utilizes a Star Schema architecture to optimize query performance. A
 
 - Page 3 (Insights & Monitoring): Anomaly Detection, Top/Bottom performer analysis, and Year-over-Year growth tracking.
 
-![alt text](image.png)
+<img width="1058" height="594" alt="image" src="https://github.com/user-attachments/assets/5e48d04f-7220-4714-bcd6-4597a29189f5" />
+
 
 ## Key DAX Measures
 
