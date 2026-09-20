@@ -36,12 +36,13 @@ I'm an undergraduate student turning raw data into actionable insights through m
 ### 🚀 Featured Projects
 
 Check out some of my favorite builds below:
-
 | Project | What It Is | Tech Used | Action |
 | :--- | :--- | :--- | :--- |
-| **🥑 Avocado Price Forecasting** | Predicted retail price trends using historical market data. | R, ARIMA, Random Forest, Shiny | [GitHub Repo](https://github.com/sangvivy/avocado-forecasting) |
-| **🎓 GPA Forecast Dashboard** | Interactive web app for forecasting student performance trends. | Python, Streamlit, Statsmodels | [GitHub Repo](https://github.com/sangvivy/gpa-forecast-dashboard) |
-| **📊 AdventureWorks Analysis** | Business intelligence dashboard uncovering sales and customer insights. | SQL, Power BI, Data Modeling | [GitHub Repo](https://github.com/sangvivy/adventureworks) |
+| **🥑 Avocado Price Forecasting** | Predicted retail price trends using historical market data. | R, ARIMA, Random Forest, Shiny | [View Project](projects/avocado-forecasting/) |
+| **🎓 GPA Forecast Dashboard** | Interactive web app for forecasting student performance trends. | Python, Streamlit, Statsmodels | [View Project](projects/gpa-forecast-dashboard/) |
+| **📊 AdventureWorks Analysis** | Business intelligence dashboard uncovering sales and customer insights. | SQL, Power BI, Data Modeling | [View Project](projects/adventureworks/) |
+
+---
 ---
 
 ### 🎓 Education & Growth
