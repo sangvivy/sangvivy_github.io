@@ -1,4 +1,6 @@
-# Hey there, I'm Vivian! 👋
+## Welcome to My Portfolio
+
+## Hi, I'm Vivian Jerono Kipsang 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sangvivy&style=flat-square&color=blue" alt="Visitor Count"/>
