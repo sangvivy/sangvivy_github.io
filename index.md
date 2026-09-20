@@ -13,3 +13,4 @@ I am an undergraduate student pursuing a degree in Data Science and Analytics at
 
 * [🥑 Time Series Avocado Price Forecasting](projects/avocado-forecasting/)
 * [🎓 GPA Forecast Dashboard](projects/gpa-forecast-dashboard/)
+* [📊 AdventureWorks Data Analysis](projects/adventureworks/)
