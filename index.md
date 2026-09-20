@@ -1,13 +1,13 @@
-# Welcome to My Portfolio
+## Welcome to My Portfolio
 
-# Hi, I'm Vivian Jerono Kipsang 👋
+## Hi, I'm Vivian Jerono Kipsang 👋
 
 I am an undergraduate student pursuing a degree in Data Science and Analytics at United States International University – Africa (USIU-Africa). Passionate about machine learning, predictive modeling, and data-driven storytelling.
 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangvivy)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+
 ---
-### Let's Connect
-* [GitHub Profile](https://github.com/sangvivy)
-* [LinkedIn Profile](https://linkedin.com)
 
 ## 🚀 Featured Projects
 
