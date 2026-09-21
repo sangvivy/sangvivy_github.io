@@ -3,7 +3,7 @@
 <p align="center"> 
   <img width="1000" height="1415" 
   alt="vivian" 
-  src="https://github.com/user-attachments/assets/50bb2acb-7a58-439e-bf5d-5ae9866de7b"
+  src="assets/images/vivian.jpg"
   style="border-radius: 50%; object-fit: cover;">
 </p>
 
