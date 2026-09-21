@@ -18,13 +18,20 @@ Welcome to my portfolio, where I share my **projects, lab challenges, technical 
   <a href="https://github.com/sangvivy">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com">
+   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:sangvivy@gmail.com">
   <img
     src="https://cdn.simpleicons.org/gmail"
     alt="Gmail"
+    width="35"
+    height="35">
+</a>
+  <a href="https://www.credly.com/users/vivian-kipsang" target="_blank">
+  <img
+    src="https://cdn.simpleicons.org/credly"
+    alt="Credly"
     width="35"
     height="35">
 </a>
