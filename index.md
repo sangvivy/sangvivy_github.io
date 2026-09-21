@@ -1,14 +1,12 @@
 # 👋 Hey there, I'm Vivian!
 
-<p align="center">
-  <img
-    width="180"
-    height="180"
-    alt="Vivian's Profile Photo"
-    src="https://github.com/user-attachments/assets/50bb2acb-7a58-439e-bf5d-5ae9866de7b"
-    style="border-radius: 50%; object-fit: cover;">
+<p align="center"> 
+  <img width="1000" height="1415" 
+  alt="vivian" 
+  src="https://github.com/user-attachments/assets/50bb2acb-7a58-439e-bf5d-5ae9866de7b"
+  style="border-radius: 50%; object-fit: cover;">
 </p>
----
+
 
 ### 📊 Turning Data Into Insights, One Problem at a Time
 
