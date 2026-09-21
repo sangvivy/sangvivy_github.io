@@ -21,6 +21,11 @@ Welcome to my portfolio, where I share my **projects, lab challenges, technical 
   <a href="YOUR-LINKEDIN-URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="mailto:sangvivy@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail">
+</a>
 </p>
 
 
@@ -199,6 +204,11 @@ I'm always open to connecting with people interested in **data, analytics, AI, t
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="mailto:sangvivy@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail">
+</a>
 </p>
 
 <p align="center">
