@@ -97,57 +97,35 @@ A business intelligence analysis exploring sales and customer data to identify p
 
 ## 🧪 Lab Challenges
 
-Hands-on technical challenges completed through cybersecurity and data-focused training. Each challenge demonstrates practical problem-solving, technical investigation, and the application of security concepts.
+As part of my technical training, I completed practical challenges that helped me apply data, AI, and cybersecurity concepts in hands-on environments.
+
+### 🔎 Web Data Scraping
+
+**Focus:** Collecting and structuring data from a public website.
+
+**Tools:** Python, Google Colab, Pandas, Web Scraping
+
+**Key Lesson:** Learned how to extract information from web pages, organize it into a structured dataset, and prepare it for analysis.
+
+---
 
 ### 🔐 Cybersecurity Defense Analysis
 
-**Problem Statement:**  
-Investigate cybersecurity scenarios and analyze security-related information to identify potential threats, suspicious activity, and security concerns.
+**Focus:** Applying cybersecurity concepts to analyze security-related scenarios.
 
-**Approach:**  
-Analyzed the provided security information, identified relevant indicators, investigated the activity, and applied cybersecurity analysis techniques to understand the potential risks and appropriate response.
+**Tools:** Cisco Cybersecurity training environment
 
-**Tools Used:**  
-Cisco cybersecurity training environment, security analysis tools, and log-based investigation techniques.
-
-**Key Lessons Learned:**  
-Developed practical skills in cybersecurity analysis, threat identification, investigation, and understanding how security information can be used to support incident response.
-
-[View Challenge →](labs/cybersecurity-defense-analysis/)
+**Key Lesson:** Developed practical understanding of threat identification, security analysis, and cybersecurity investigation.
 
 ---
 
-### 🔎 Web Data Scraping Challenge
+### 🔒 Secure Data Sharing
 
-**Problem Statement:**  
-Collect structured information from a publicly available website and transform the scraped information into a usable dataset for analysis.
+**Focus:** Protecting sensitive data and verifying data integrity.
 
-**Approach:**  
-Inspected the webpage structure, identified the relevant information, extracted the required data, organized the results into a structured dataset, and reviewed the collected data for consistency.
+**Tools:** GPG, OpenSSL, SQLite, SHA-256
 
-**Tools Used:**  
-Python, Google Colab, web scraping libraries, and Pandas.
-
-**Key Lessons Learned:**  
-Gained practical experience in web data collection, HTML structure, data extraction, cleaning, and preparing unstructured web information for analysis.
-
-[View Challenge →](labs/web-data-scraping/)
-
----
-
-### 🔒 Secure Data Sharing Challenge
-
-**Problem Statement:**  
-Design and test a secure method for sharing sensitive employee data while protecting its confidentiality and verifying data integrity.
-
-**Approach:**  
-Worked with encrypted data, digital signatures, hashing, and database records. Tested both valid and tampered data scenarios to verify whether unauthorized changes could be detected.
-
-**Tools Used:**  
-GPG, OpenSSL, SQLite, SHA-256 hashing, Python, and logging.
-
-**Key Lessons Learned:**  
-Developed practical understanding of encryption, digital signatures, data integrity, authentication, and security testing when handling sensitive datasets.
+**Key Lesson:** Learned how encryption, hashing, digital signatures, and security testing can be used to protect and validate data.
 
 ---
 
