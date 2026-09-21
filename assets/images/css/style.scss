@@ -1,0 +1,127 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* =========================
+   GENERAL PAGE STYLING
+   ========================= */
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.main-content {
+  max-width: 1000px;
+}
+
+/* =========================
+   PROFILE PHOTO
+   ========================= */
+
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 25px auto;
+  border: 5px solid white;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* =========================
+   HEADINGS
+   ========================= */
+
+.main-content h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.main-content h2 {
+  margin-top: 45px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #e6e6e6;
+}
+
+.main-content h3 {
+  margin-top: 25px;
+}
+
+/* =========================
+   TABLE / SKILLS
+   ========================= */
+
+.main-content table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 20px 0;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.main-content th,
+.main-content td {
+  padding: 14px;
+}
+
+.main-content th {
+  font-weight: 600;
+}
+
+/* =========================
+   PROJECT SECTIONS
+   ========================= */
+
+.main-content h3 {
+  border-left: 4px solid #159957;
+  padding-left: 12px;
+}
+
+/* =========================
+   LINKS
+   ========================= */
+
+.main-content a {
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.main-content a:hover {
+  text-decoration: underline;
+}
+
+/* =========================
+   CONTACT SECTION
+   ========================= */
+
+.main-content p[align="center"] a {
+  margin: 0 6px;
+}
+
+/* =========================
+   MOBILE RESPONSIVENESS
+   ========================= */
+
+@media screen and (max-width: 600px) {
+
+  .profile-photo {
+    width: 140px;
+    height: 140px;
+  }
+
+  .main-content {
+    padding: 20px;
+  }
+
+  .main-content table {
+    font-size: 14px;
+  }
+
+  .main-content th,
+  .main-content td {
+    padding: 10px;
+  }
+}
