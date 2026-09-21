@@ -1,31 +1,51 @@
-## Welcome to My Portfolio
+# Hey there, I'm Vivian! 👋
 
-## Hi, I'm Vivian Jerono Kipsang 👋
-
-I am an undergraduate student pursuing a degree in Data Science and Analytics at United States International University – Africa (USIU-Africa). Passionate about machine learning, predictive modeling, and data-driven storytelling.
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sangvivy)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-
-### 🎓 Education
-* **Bachelor of Science in Data Science and Analytics** — United States International University – Africa (USIU-Africa)
-
----
-## 🛠️ Skills & Technologies
-
-* **Programming & Languages:** Python, R, SQL, HiveQL, Markdown
-* **Data Science & ML:** Scikit-Learn, XGBoost, Random Forest, ARIMA, SARIMA, Time Series Forecasting
-* **Big Data & Tools:** Apache Hadoop, Apache Hive, Docker, Git, Power BI, RStudio
-* **Cybersecurity & Analysis:** Splunk, Threat Hunting Frameworks, Network Packet Analysis
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sangvivy&style=flat-square&color=blue" alt="Visitor Count"/>
+  <a href="https://github.com/sangvivy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
-
-* **[🥑 Time Series Avocado Price Forecasting](projects/avocado-forecasting/)** — Built an R-based predictive model and Shiny dashboard to forecast avocado retail prices using ARIMA and Random Forest.
-* **[🎓 GPA Forecast Dashboard](projects/gpa-forecast-dashboard/)** — Developed an interactive Streamlit web application using Python to predict and visualize student GPA trends with time-series models.
-* **[📊 AdventureWorks Data Analysis](projects/adventureworks/)** — Performed business intelligence analysis on the AdventureWorks dataset to uncover regional sales performance and customer insights.)
-
+### 💡 About Me
+I'm an undergraduate student turning raw data into actionable insights through machine learning, predictive modeling, and analytics. Welcome to my digital playground where I showcase my latest work!
 
 ---
-<p align="center">© 2026 Vivian Jerono Kipsang. Built with GitHub Pages.</p>
+
+### 🛠️ Tech Stack & Superpowers
+<table>
+  <tr>
+    <td align="center">🐍<br><b>Python</b></td>
+    <td align="center">📊<br><b>R & RStudio</b></td>
+    <td align="center">🗄️<br><b>SQL & HiveQL</b></td>
+    <td align="center">📈<br><b>Power BI</b></td>
+  </tr>
+  <tr>
+    <td align="center">🤖<br><b>Machine Learning</b></td>
+    <td align="center">🐋<br><b>Docker & Hadoop</b></td>
+    <td align="center">🔒<br><b>Splunk & Security</b></td>
+    <td align="center">🐳<br><b>Git & GitHub</b></td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+Check out some of my favorite builds below:
+
+| Project | What It Is | Tech Used | Action |
+| :--- | :--- | :--- | :--- |
+| **🥑 Avocado Price Forecasting** | Predicted retail price trends using historical market data. | R, ARIMA, Random Forest, Shiny | [View Project](projects/avocado-forecasting/) |
+| **🎓 GPA Forecast Dashboard** | Interactive web app for forecasting student performance trends. | Python, Streamlit, Statsmodels | [View Project](projects/gpa-forecast-dashboard/) |
+| **📊 AdventureWorks Analysis** | Business intelligence dashboard uncovering sales and customer insights. | SQL, Power BI, Data Modeling | [View Project](projects/adventureworks/) |
+
+---
+
+### 🎓 Education & Growth
+* **B.Sc. in Data Science and Analytics** — United States International University – Africa (USIU-Africa)
+
+---
+<p align="center">✨ <i>Thanks for stopping by! Let's connect and build something cool together.</i> ✨</p>
+<p align="center"><small>© 2026 Vivian Jerono Kipsang</p></small>
