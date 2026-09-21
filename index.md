@@ -28,13 +28,7 @@ Welcome to my portfolio, where I share my **projects, lab challenges, technical 
     width="35"
     height="35">
 </a>
-  <a href="https://www.credly.com/users/vivian-kipsang" target="_blank">
-  <img
-    src="https://cdn.simpleicons.org/credly"
-    alt="Credly"
-    width="35"
-    height="35">
-</a>
+  
 </p>
 
  
@@ -170,6 +164,16 @@ Participated in community initiatives and volunteering activities focused on ser
 ---
 
 ## 📜 Certifications & Professional Development
+
+### *Click the Credly icon to view my verified badges.*
+
+<a href="https://www.credly.com/users/vivian-kipsang" target="_blank">
+  <img
+    src="https://cdn.simpleicons.org/credly"
+    alt="Credly"
+    width="35"
+    height="35">
+</a>
 
 * **Cisco Cybersecurity Defense Analyst**
 * **Cisco Introduction to Data Science**
