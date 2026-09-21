@@ -1,20 +1,28 @@
 # 👋 Hey there, I'm Vivian!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sangvivy&style=flat-square&color=blue" alt="Visitor Count"/>
-  <a href="https://github.com/sangvivy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="images/vivian.jpg"
+       alt="Vivian's Profile Photo"
+       width="180"
+       height="180"
+       style="border-radius: 50%; object-fit: cover;">
 </p>
 
----
+### 📊 Turning Data Into Insights, One Problem at a Time
 
-## 🏠 Home
+Data Science and Analytics undergraduate with an interest in **data analysis, business intelligence, machine learning, and AI**. I enjoy exploring data, uncovering patterns, building predictive solutions, and turning findings into meaningful insights.
 
-### Turning Data Into Insights, One Problem at a Time 📊
+Welcome to my portfolio, where I share my **projects, lab challenges, technical skills, certifications, and experiences** as I continue developing in the data and AI field.
 
-I'm a Data Science and Analytics undergraduate interested in using data, machine learning, and business intelligence to understand problems and develop data-driven solutions.
+<p align="center">
+  <a href="https://github.com/sangvivy">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="YOUR-LINKEDIN-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-Welcome to my portfolio — a space where I showcase my projects, technical skills, experiences, and the journey behind my growth in data and AI.
 
 ---
 
