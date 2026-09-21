@@ -1,10 +1,7 @@
 # 👋 Hey there, I'm Vivian!
 
 <p align="center"> 
-  <img src=" <img width="1000" height="1415" alt="vivian" src="https://github.com/user-attachments/assets/f9401f24-cf32-4480-95ce-3a42e23b6687" />
-
-
-"
+  <img src=" <img width="1000" height="1415" alt="vivian" src="https://github.com/user-attachments/assets/f9401f24-cf32-4480-95ce-3a42e23b6687" /> "
        alt="Vivian's Profile Photo"
        width="180"
        height="180"
