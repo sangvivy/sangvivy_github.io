@@ -1,9 +1,9 @@
 # 👋 Hey there, I'm Vivian!
 
 <p align="center"> 
-  <img width="180" height="180" 
+  <img width="180" height="255" 
   alt="vivian" 
-  src="assets/images/vivian.jpg"
+  src="assets/images/vivian2.jpg"
   style="border-radius: 50%; object-fit: cover;">
 </p>
 
