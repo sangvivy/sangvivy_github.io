@@ -8,6 +8,8 @@
     src="https://github.com/user-attachments/assets/50bb2acb-7a58-439e-bf5d-5ae9866de7b"
     style="border-radius: 50%; object-fit: cover;">
 </p>
+---
+
 ### 📊 Turning Data Into Insights, One Problem at a Time
 
 Data Science and Analytics undergraduate with an interest in **data analysis, business intelligence, machine learning, and AI**. I enjoy exploring data, uncovering patterns, building predictive solutions, and turning findings into meaningful insights.
