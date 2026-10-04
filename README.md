@@ -71,7 +71,7 @@ Check out some of my favorite builds below:
 
 Got a question or want to work together? Reach out through any of the channels below:
 
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Email:** [your.email@example.com](mailto:sangvivy@example.com)
 * **GitHub:** [github.com/sangvivy](https://github.com/sangvivy)
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com)
 
