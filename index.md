@@ -18,7 +18,7 @@ Welcome to my portfolio, where I share my **projects, lab challenges, technical 
   <a href="https://github.com/sangvivy">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-   <a href="https://www.linkedin.com">
+   <a href="https://www.linkedin.com/in/vivian-kipsang">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:sangvivy@gmail.com">
@@ -72,6 +72,14 @@ My career interests are centered around **Data Science, Business Intelligence, D
 ## 🚀 Projects
 
 Here are some of the projects where I have applied data science and analytics concepts to explore problems, build models, and communicate insights.
+
+### 🏨 AtliQ Grands Hospitality Analysis
+
+End-to-end business intelligence analysis on hotel revenue, occupancy trends, and 24 custom DAX KPIs.
+
+**Technologies:** Power BI, Power Query, DAX, Star Schema
+
+[View GitHub Repo →](https://github.com/sangvivy/atliq-grands-hospitality)
 
 ### 🥑 Avocado Price Forecasting
 
@@ -145,7 +153,7 @@ As part of my technical training, I completed practical challenges that helped m
 
 Applied data analysis and research skills while working with datasets and conducting literature reviews.
 
-### 🧑‍💼 School Ambassador
+### 🧑‍‍💼 School Ambassador
 
 Served as a school ambassador, supporting student orientation, registrations, school tours, and institutional events.
 
@@ -214,7 +222,7 @@ I'm always open to connecting with people interested in **data, analytics, AI, t
   <a href="https://github.com/sangvivy">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/vivian-kipsang">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:sangvivy@gmail.com">
