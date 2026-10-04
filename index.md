@@ -79,7 +79,7 @@ End-to-end business intelligence analysis on hotel revenue, occupancy trends, an
 
 **Technologies:** Power BI, Power Query, DAX, Star Schema
 
-[View GitHub Repo →](https://github.com/sangvivy/atliq-grands-hospitality)
+[View GitHub Repo →](https://github.com/sangvivy/atliq-grands-powerbi)
 
 ### 🥑 Avocado Price Forecasting
 
