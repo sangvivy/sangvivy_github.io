@@ -81,6 +81,14 @@ End-to-end business intelligence analysis on hotel revenue, occupancy trends, an
 
 [View GitHub Repo →](https://github.com/sangvivy/atliq-grands-powerbi)
 
+## 📊 HR Analytics Dashboard | Tableau
+
+Interactive HR analytics project exploring workforce metrics, employee demographics, and salary distribution through three dashboards: Overview, Demographics, and Income Analysis.
+
+**Technologies:** Tableau Desktop, Tableau Public, Data Visualization, HR Analytics
+
+[View GitHub Repo →](https://github.com/sangvivy/hr-analytics-tableau-dashboard) · [View Interactive Dashboard →](https://public.tableau.com/app/profile/vivian.kipsang/viz/HR_ANALYTICS_DASHBOARD_17918513857130/HRSummary)
+
 ### 🥑 Avocado Price Forecasting
 
 Forecasting retail avocado price trends using historical market data and predictive techniques.
